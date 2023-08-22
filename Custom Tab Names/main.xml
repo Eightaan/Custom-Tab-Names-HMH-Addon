@@ -1,0 +1,6 @@
+<table>
+    <Hooks>
+	    <hook file="Core.lua" source_file="lib/setups/setup"/>
+	    <hook file="Menu.lua" source_file="lib/managers/menu/blackmarketgui"/>		
+    </Hooks>
+</table>
